@@ -3,7 +3,7 @@
 This project aims to implement the Power Method to approximate the singular value decomposition (SVD) on matrix A of m x n by taking it to a reasonably high kth power. 
 
 ## Getting Started
-The power_method.py is the code for the power method. One can run with 
+The power_method.py is the code for the power method. One can run it with 
 ```
 python power_method.py
 ```
